@@ -1,0 +1,16 @@
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\bin\Debug\Simetrik Asal Sayı Bulma.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\bin\Debug\Simetrik Asal Sayı Bulma.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik_Asal_Sayı_Bulma.Form1.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik_Asal_Sayı_Bulma.Properties.Resources.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.csproj.GenerateResource.Cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.csprojResolveAssemblyReference.cache
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\bin\Debug\Simetrik Asal Sayı Bulma.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\bin\Debug\Simetrik Asal Sayı Bulma.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.csprojResolveAssemblyReference.cache
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik_Asal_Sayı_Bulma.Form1.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik_Asal_Sayı_Bulma.Properties.Resources.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\R-T\Simetrik Asal Sayı Bulma\Simetrik Asal Sayı Bulma\obj\x86\Debug\Simetrik Asal Sayı Bulma.csproj.GenerateResource.Cache
